@@ -1,0 +1,6 @@
+intent,question,answer
+order_status,"Where is my order?", "You can check your order status in 'My Orders'."
+return_policy,"What is your return policy?", "We have a 7-day return policy for most items."
+cancel_order,"How to cancel my order?", "Go to 'My Orders' > Select Order > Click 'Cancel'."
+refund_status,"Where is my refund?", "Refunds take 5-7 days to reflect in your bank."
+...

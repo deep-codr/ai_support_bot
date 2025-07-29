@@ -1,0 +1,54 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Is anyone there?", "Good morning", "Good evening"],
+      "responses": ["Hello! How can I assist you today?", "Hi there! What can I help you with?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Talk to you later"],
+      "responses": ["Goodbye! Have a great day!", "See you again!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot"],
+      "responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+    },
+    {
+      "tag": "services",
+      "patterns": ["What services do you offer?", "Tell me about your services", "What do you provide?"],
+      "responses": ["We offer Flex Printing, Machine Sales, Ink Supplies, and Repair Services."]
+    },
+    {
+      "tag": "pricing",
+      "patterns": ["How much does it cost?", "What are your prices?", "Give me a quote", "Tell me the pricing"],
+      "responses": ["Pricing depends on the service. Please specify what you're looking for."]
+    },
+    {
+      "tag": "delivery",
+      "patterns": ["Do you deliver?", "How long does delivery take?", "Delivery time?", "Is delivery available?"],
+      "responses": ["Yes, we deliver within 3-5 working days across India."]
+    },
+    {
+      "tag": "support",
+      "patterns": ["I need help", "How to contact support?", "Customer care number", "Is support available?"],
+      "responses": ["You can reach our support at 1800-123-456 or email support@flexpro.in."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where are you located?", "Your address?", "Office location", "Company location"],
+      "responses": ["We are located at MG Road, Delhi. You can visit our website for directions."]
+    },
+    {
+      "tag": "machine_repair",
+      "patterns": ["My machine is not working", "I need a repair", "Fix my printer", "Repair service?"],
+      "responses": ["Our technician team can assist you. Please call us or raise a request from our website."]
+    },
+    {
+      "tag": "order_status",
+      "patterns": ["Where is my order?", "Order status", "Track my order", "When will I get my machine?"],
+      "responses": ["Please share your Order ID to help you with tracking."]
+    }
+  ]
+}
