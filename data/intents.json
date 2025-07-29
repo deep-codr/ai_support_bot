@@ -33,7 +33,7 @@
     {
       "tag": "support",
       "patterns": ["I need help", "How to contact support?", "Customer care number", "Is support available?"],
-      "responses": ["You can reach our support at 1800-123-456 or email support@flexpro.in."]
+      "responses": ["You can reach our support at 1800-123-456 or email respawncoder@gmail.com"]
     },
     {
       "tag": "location",
